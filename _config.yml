@@ -22,7 +22,7 @@ repository               : "ssluo-sauder/ssluo-sauder.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile_SL.png"
   name             : "Shanshan Luo"
   pronouns         : "She/Her"  
   bio              : #"Short biography for the left-hand sidebar"
