@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "air" # Currently available options are "default", "air"
-title                    : "Shanshan Luo | UBC Sauder School of Business"
+title                    : "Shanshan Luo, UBC Sauder School of Business"
 title_separator          : "-"
 name                     : &name "Shanshan Luo"
 description              : &description "personal description"
