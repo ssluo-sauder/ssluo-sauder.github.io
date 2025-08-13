@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 <!-- Embed the PDF directly into the page -->
-<iframe src="https://drive.google.com/file/d/1jRYVR2Z1fanhoXY6hKGXgzUkL7hAdOYF/view?usp=sharing" width="100%" height="800px">
+<iframe src="{{ '/files/paper1.pdf' | relative_url }}" width="100%" height="800px">
     This browser does not support PDFs. Please download the PDF to view it: 
     <a href="https://drive.google.com/file/d/1jRYVR2Z1fanhoXY6hKGXgzUkL7hAdOYF/view?usp=sharing">Download PDF</a>.
 </iframe>
