@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 <!-- Embed the PDF directly into the page -->
-<iframe src="https://www.dropbox.com/scl/fi/e17e5rcwtnxkmrbue09mk/CV_ShanshanLuo.pdf?rlkey=blgs0si0jv847o38dzaeijtxs&st=6ycw1t0i&dl=0" width="100%" height="800px">
+<iframe src="https://drive.google.com/file/d/1jRYVR2Z1fanhoXY6hKGXgzUkL7hAdOYF/view?usp=sharing" width="100%" height="800px">
     This browser does not support PDFs. Please download the PDF to view it: 
-    <a href="https://www.dropbox.com/scl/fi/e17e5rcwtnxkmrbue09mk/CV_ShanshanLuo.pdf?rlkey=blgs0si0jv847o38dzaeijtxs&st=6ycw1t0i&dl=0">Download PDF</a>.
+    <a href="https://drive.google.com/file/d/1jRYVR2Z1fanhoXY6hKGXgzUkL7hAdOYF/view?usp=sharing">Download PDF</a>.
 </iframe>
