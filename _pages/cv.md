@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 <!-- Embed the PDF directly into the page -->
-<iframe src="{{ '/files/CV_ShanshanLuo.pdf' | relative_url }}" width="100%" height="800px">
+<iframe src="{{ '/files/CV_SL.pdf' | relative_url }}" width="100%" height="800px">
     This browser does not support PDFs. Please download the PDF to view it: 
-    <a href="{{ '/files/CV_ShanshanLuo.pdf' | relative_url }}">Download PDF</a>.
+    <a href="{{ '/files/CV_SL.pdf' | relative_url }}">Download PDF</a>.
 </iframe>
