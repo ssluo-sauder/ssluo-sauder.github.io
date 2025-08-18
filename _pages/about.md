@@ -8,7 +8,7 @@ redirect_from:
 ---
 Hello, welcome to my website! 😀 
 
-I am a final-year Ph.D. student in Management Science at Sauder School of Business, University of British Columbia, under the supervision of [Prof. Steven Shechter](https://www.sauder.ubc.ca/people/steven-shechter){:target="_blank"}. I received my M.A. in Applied Mathematics from University of Pennsylvania and my B.S. in Statistics from Xi’an Jiaotong University.
+I am a final-year Ph.D. student in Management Science at Sauder School of Business, University of British Columbia, under the supervision of [Prof. Steven Shechter](https://www.sauder.ubc.ca/people/steven-shechter). I received my M.A. in Applied Mathematics from University of Pennsylvania and my B.S. in Statistics from Xi’an Jiaotong University.
 
 I am interested in applying optimization and data-driven methods to solve problems in healthcare operations. My current research focuses on preventive healthcare, including optimizing vaccination schedules to reduce infection risk and designing peer-based competitions in fitness platforms to promote healthy behavior.
 
