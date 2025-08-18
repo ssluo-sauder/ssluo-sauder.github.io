@@ -18,6 +18,7 @@ I am interested in applying optimization and data-driven methods to solve proble
 
 ## Working Papers
 * with Steven Shechter, "Optimizing peer matching for performance improvement."
+
 * with Steven Shechter, Mark Canney, Sean Barbour, "Optimizing corticosteroid treatment in IgA nephropathy."
 
 ## Teaching
