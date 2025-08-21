@@ -14,7 +14,7 @@ I am interested in applying optimization and data-driven methods to solve proble
 
 
 ## Publication
-* with Steven Shechter, ["Mass vaccination scheduling: Trading off infections, throughput, and overtime."](https://pubsonline.informs.org/doi/10.1287/mnsc.2023.02958) (2024) Accepted at **_Management Science_**.
+* with Steven Shechter, ["Mass vaccination scheduling: Trading off infections, throughput, and overtime."](https://doi.org/10.1287/mnsc.2023.02958) (2024) Accepted at **_Management Science_**.
 
 ## Working Papers
 * with Steven Shechter, "Optimizing peer matching for performance improvement."
