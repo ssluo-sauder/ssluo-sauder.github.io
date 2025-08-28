@@ -27,7 +27,7 @@ I am interested in applying optimization and data-driven methods to solve proble
 
 * Teaching assistant, UBC Sauder
   + BAMS 506/508 Optimal Decision Making I/II, master (Fall 2022-2025)
-  + BAMS 523 Managerial Decisions Modeling and Analytics, MBA (Fall 2023-2024)
+  + BAMS 523 Managerial Decision Modeling and Analytics, MBA (Fall 2023-2024)
   + BAMS 517 Decision Analysis Under Uncertainty, master (Fall 2024)
   + BASC 550 Operations, master (Fall 2024)
   + COMR 398 Introduction to Business Processes and Operations, undergraduate (Summer 2025)
