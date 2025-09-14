@@ -12,6 +12,10 @@ I am a final-year Ph.D. student in Management Science at Sauder School of Busine
 
 I am interested in applying optimization and data-driven methods to solve problems in healthcare operations. My current research focuses on preventive healthcare, including optimizing vaccination schedules to reduce infection risk and designing peer-based competitions in fitness platforms to promote healthy behavior.
 
+**I am on the 2025-2026 academic job market.** I will present my job market paper at 
+* INFORMS Annual Meeting 2025, Atlanta
+    + October 26, 3:39 pm - 3:57 pm, Building A Level 3 A313, Job Market Showcase Session (Session title: Inference and Resource Allocation in Healthcare Systems)
+
 
 ## Publication
 * with Steven Shechter, ["Mass vaccination scheduling: Trading off infections, throughput, and overtime."](https://doi.org/10.1287/mnsc.2023.02958) (2024) Accepted at **_Management Science_**.
